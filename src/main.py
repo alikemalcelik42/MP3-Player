@@ -4,10 +4,7 @@ from PyQt5.QtCore import *
 from PyQt5 import QtMultimedia
 import sys, os
 
-'''
-Writer: kprxn
-Github: https://github.com/kprxn
-'''
+# MP3 Çalar
 
 class Window(QWidget):
     def __init__(self, title, shape, icon):
